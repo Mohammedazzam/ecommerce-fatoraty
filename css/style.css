@@ -596,10 +596,10 @@ img {
 }
 #menu .menu-area .navbar-default .navbar-nav {
   display: inline-block;
-  float: left;
+  float: right;
   margin: 0;
   text-align: center;
-  width: 100%;
+  width: 65%;
 }
 #menu .menu-area .navbar-default .navbar-nav li a {
   color: #fff;
